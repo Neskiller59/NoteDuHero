@@ -6,34 +6,34 @@
 }
 
 body.quete{
-   background-image: url(/image/fallenKnight.jpg);
+   background-image: url(./image/fallenKnight.jpg);
    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
   
 }
 body.fichePerso{
-   background-image: url(/image/knight5.jpg);
+   background-image: url(./image/knight5.jpg);
    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 60%;
   
 }
 body.pnj{
-   background-image: url(/image/knight2.jpg);
+   background-image: url(./image/knight2.jpg);
    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 45%;
   
 }
 body.inventaire{
-   background-image: url(/image/knight4.jpg); background-size: cover;
+   background-image: url(./image/knight4.jpg); background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 45%;
   
 }
 body.Aventure{
-   background-image: url(/image/knight3.jpg);
+   background-image: url(./image/knight3.jpg);
    background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
